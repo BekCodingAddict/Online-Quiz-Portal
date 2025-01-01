@@ -26,7 +26,40 @@
 - Set start and end times for quizzes to enforce time limits.
 ### 💾 Data Storage
 - Stores user scores and quiz results for future reference and analysis.
-<hr/>
+
+## 주요 기술 스택
+### Front-End: [ React,React Redux/Toolkit, React-Router-DOM,Antd Design, Axios etc]
+>[!NOTE]
+>###  ⚛️ React:
+>- Utilized React (^18.2.0) for building the user interface and managing the application's state.
+>- Combined with ReactDOM (^18.2.0) to render React components into the DOM.
+>### 🔄 Redux & Redux Toolkit
+>- Redux (^4.2.0) for global state management.
+>- Implemented Redux Toolkit (^1.8.5) for efficient Redux development, simplifying store configuration, reducers, and actions.
+>### 🌐 React Router
+>- Integrated React Router DOM (^6.4.1) to handle routing and navigation across different views and pages within the app.
+>### 💻 Ant Design
+>- Used Ant Design (^4.23.4) for rich UI components like forms, tables, and buttons, offering a consistent design system.
+>### 🌍 Axios
+>- Integrated Axios (^0.27.2) for making HTTP requests to the backend, handling API calls and data fetching seamlessly.
+>### 📅 Moment.js
+>- Used Moment.js (^2.29.4) to parse, validate, manipulate, and display dates and times in a readable format.
+
+### Back-End: [ Node.js, Express.js, Bycript.js, JsonWebToken, Mongoose etc.]
+>[!NOTE]
+>### 🔐 bcryptjs
+>- Used bcryptjs (^2.4.3) for password hashing to ensure user credentials are securely stored and protected in the database.
+>### 🌿 dotenv
+>- Configured dotenv (^16.0.3) to load environment variables from a .env file, helping manage sensitive information like API keys, database credentials, and app settings securely.
+>🚀 Express
+>- Set up a server using Express (^4.18.1), a fast and minimalist web framework, to handle HTTP requests, routing, and middleware.
+>### 🔑 jsonwebtoken
+>- Integrated jsonwebtoken (^8.5.1) for creating and verifying JWT (JSON Web Tokens), enabling secure user authentication and authorization.
+>### 💾 mongoose
+>- Used mongoose (^6.6.4) for MongoDB object modeling, providing an easy-to-use API to interact with a MongoDB database, defining schemas, and handling CRUD operations.
+>### 🔄 nodemon
+>- Configured nodemon (^2.0.20) for automatic server reloading during development, allowing for real-time updates when the backend code is modified.
+
 
 ## Achievements and Lessons Learned from the Project
 ### 1. 🕒 Real-Time Features

@@ -51,7 +51,6 @@
 >- Used bcryptjs (^2.4.3) for password hashing to ensure user credentials are securely stored and protected in the database.
 >### 🌿 dotenv
 >- Configured dotenv (^16.0.3) to load environment variables from a .env file, helping manage sensitive information like API keys, database credentials, and app settings securely.
->🚀 Express
 >- Set up a server using Express (^4.18.1), a fast and minimalist web framework, to handle HTTP requests, routing, and middleware.
 >### 🔑 jsonwebtoken
 >- Integrated jsonwebtoken (^8.5.1) for creating and verifying JWT (JSON Web Tokens), enabling secure user authentication and authorization.

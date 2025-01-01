@@ -38,8 +38,39 @@
 - 사용자의 점수와 퀴즈 결과를 저장하여 나중에 확인할 수 있도록 합니다.
 
 ## 주요 기술 스택
-- Front-End: [ React,React Redux/Toolkit, React-Router-DOM,Antd Design, Axios etc]
-- Back-End: [ Node.js, Express.js, Bycript.js, JsonWebToken, Mongoose etc.]
+### Front-End: [ React,React Redux/Toolkit, React-Router-DOM,Antd Design, Axios etc]
+>[!NOTE]
+>###  ⚛️ React:
+>- React (^18.2.0)를 사용하여 사용자 인터페이스를 구축하고 애플리케이션 상태를 관리합니다.
+>- ReactDOM (^18.2.0)을 사용하여 React 컴포넌트를 DOM에 렌더링합니다.
+>### 🔄 Redux & Redux Toolkit
+>- Redux (^4.2.0)를 사용하여 전역 상태를 관리합니다.
+>- Redux Toolkit (^1.8.5)을 사용하여 Redux 개발을 간소화하고, 스토어 설정, 리듀서 및 액션을 효율적으로 처리합니다.
+>### 🌐 React Router
+>- React Router DOM (^6.4.1)을 사용하여 애플리케이션 내에서 페이지와 뷰 간의 라우팅 및 네비게이션을 처리합니다.
+>### 💻 Ant Design
+>- Ant Design (^4.23.4)을 사용하여 일관된 디자인 시스템을 제공하며, 폼, 테이블, 버튼 등 다양한 UI 컴포넌트를 구현합니다.
+>### 🌍 Axios
+>- Axios (^0.27.2)를 사용하여 백엔드 API 호출을 처리하고, 데이터 페칭을 원활하게 수행합니다.
+>### 📅 Moment.js
+>- Moment.js (^2.29.4)를 사용하여 날짜와 시간을 읽기 쉬운 형식으로 파싱하고 조작합니다.
+
+### Back-End: [ Node.js, Express.js, Bycript.js, JsonWebToken, Mongoose etc.]
+>[!NOTE]
+>### 🔐 bcryptjs
+>- bcryptjs (^2.4.3)를 사용하여 비밀번호 해싱을 수행, 사용자 자격 증명이 안전하게 데이터베이스에 저장되고 보호되도록 처리합니다.
+>### 🌿 dotenv
+>- dotenv (^16.0.3)를 사용하여 .env 파일에서 환경 변수를 로드하고, API 키, 데이터베이스 자격 증명, 앱 설정과 같은 민감한 정보를 안전하게 관리합니다.
+>### 🚀 Express
+>- Express (^4.18.1)를 사용하여 서버를 설정, HTTP 요청 처리, 라우팅 및 미들웨어를 빠르고 간단하게 처리할 수 있게 합니다.
+>### 🔑 jsonwebtoken
+>- jsonwebtoken (^8.5.1)를 통합하여 **JWT (JSON 웹 토큰)**을 생성하고 검증, 사용자 인증 및 권한 부여를 안전하게 수행합니다.
+>### 💾 mongoose
+>- mongoose (^6.6.4)를 사용하여 MongoDB 객체 모델링을 진행, MongoDB 데이터베이스와 상호작용하고, 스키마 정의 및 CRUD 작업을 손쉽게 처리할 수 있게 합니다.
+>###🔄 nodemon
+>- nodemon (^2.0.20)을 설정하여 개발 중 서버 코드가 변경될 때 자동으로 서버를 재시작, 실시간으로 업데이트가 가능합니다.
+
+
 
 ## 프로젝트를 통해 얻은 성과와 배운 점들은 다음과 같습니다:
 ### 1.🕒 실시간 기능 구현 (Real-Time Features)

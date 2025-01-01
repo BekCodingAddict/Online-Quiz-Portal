@@ -64,6 +64,13 @@
 ### 7.🎨 UI/UX 디자인
 - Ant Design UI 라이브러리를 사용하여 퀴즈 인터페이스를 구축하면서 사용자 경험을 개선하도록 해 봤습니다.이를 통해 어떻게 외부 UI 라이브러리가 나의 프로젝트 적용하는 것을 배웠고  UI 디자인하는데 큰 시간을 절약할 있는지 깨달았습니다.
 
+## Problems & Challanges
+| Error & Problem Title | Status | Difficult | Date |
+|--|--|--|--|
+|[🎨 TailwindCSS Conflicts](https://github.com/BekCodingAddict/FastPizza/blob/master/Problems/TailwindCSS-Conflicts.md) | ![solved](https://img.shields.io/badge/solved-blue) | low | Oct 3, 2024 |
+
+## UI Screenshots
+
 ### 결론
 이 프로젝트를 통해 실시간 웹 애플리케이션의 전반적인 개발 프로세스를 이해하고, 프론트엔드와 백엔드를 연계하여 동적인 애플리케이션을 구축하는 기술을 습득할 수 있었습니다. 실시간 데이터 처리, 사용자 인증 및 보안, UI/UX 설계 등 다양한 분야에서 경험을 쌓고 실력을 향상시킬 수 있었습니다.🚀
 

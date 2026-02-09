@@ -100,7 +100,27 @@
 |--|--|--|--|
 |[🎨 TailwindCSS Conflicts](https://github.com/BekCodingAddict/FastPizza/blob/master/Problems/TailwindCSS-Conflicts.md) | ![solved](https://img.shields.io/badge/solved-blue) | low | Oct 3, 2024 |
 
-## UI Screenshots
+## UI/UX
+Login:
+<img width="1275" height="945" alt="QuizPortal" src="https://github.com/user-attachments/assets/e70e371b-8735-4afd-8e6a-898c5de03f61" />
+
+Home:
+<img width="1271" height="942" alt="QuizPortal-Home" src="https://github.com/user-attachments/assets/9d2cd4cf-9843-40d4-83b8-298e710b3079" />
+
+Quiz List:
+<img width="1277" height="954" alt="QuizPortal-Quiz" src="https://github.com/user-attachments/assets/a37f203a-f38d-45c1-b14e-0665dac449d3" />
+
+Report:
+<img width="1329" height="958" alt="QuizPortal-Report" src="https://github.com/user-attachments/assets/90abb2dd-a0ac-4b1a-ab9b-fc4c9f14f4c0" />
+
+Quiz Result:
+<img width="1330" height="958" alt="QuizPortal-Result" src="https://github.com/user-attachments/assets/f45807b8-b66f-4e33-a9dd-a9239c6a2184" />
+
+Testing:
+<img width="1279" height="957" alt="QuizPortal-Testing" src="https://github.com/user-attachments/assets/e397a8c2-e5a1-45e4-9996-aa4a970d2986" />
+
+
+
 
 ### 결론
 이 프로젝트를 통해 실시간 웹 애플리케이션의 전반적인 개발 프로세스를 이해하고, 프론트엔드와 백엔드를 연계하여 동적인 애플리케이션을 구축하는 기술을 습득할 수 있었습니다. 실시간 데이터 처리, 사용자 인증 및 보안, UI/UX 설계 등 다양한 분야에서 경험을 쌓고 실력을 향상시킬 수 있었습니다.🚀
@@ -110,3 +130,4 @@
 - [ ] 퀴즈 카테고리 및 난이도 설정 (Categories & Difficulty Levels):
   - 퀴즈는 다양한 카테고리와 난이도(쉬움, 보통, 어려움)로 나누어져 있으며, 참가자는 원하는 카테고리와 난이도를 선택하여 참여할 수 있습니다.
 - [ ] 관리자 대시보드 (Admin Dashboard) 더 현대적으로 압데이트하기 
+
